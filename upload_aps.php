@@ -41,6 +41,7 @@ if (isset($_POST['signout'])) {
 
 <body>
 <h2> this is h2 h2 h2 h2 h2 </h2>
+<h2> this is h2 h2 h2 h2 h2 </h2>
 
   <header class="header_index">
     <a id="logo" href="index.php"></a>
