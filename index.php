@@ -60,7 +60,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['signup_name']) && isse
 
 </head>
 <body>
-<h1>AMIN amin AMIN</h1>
 
 <div class="wrapper">
         <div class="card-switch">
